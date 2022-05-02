@@ -1,0 +1,2 @@
+# exorcismcourse
+class examle
